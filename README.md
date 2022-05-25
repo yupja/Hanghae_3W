@@ -14,3 +14,6 @@
   - Reset 버튼을 누르면 평점 평균을 0으로 상태변화 시키기
 
 - 파이어베이스 or S3로 배포
+
+![11111111111](https://user-images.githubusercontent.com/105037404/170300448-ba7edd7e-7d75-41a7-8efd-3722e27c0784.png)
+![222222](https://user-images.githubusercontent.com/105037404/170300460-765a0e3f-cb42-491f-b762-d0d12d4738d3.png)
